@@ -1,5 +1,5 @@
-# cloud9-ide-runner
-Tested runners for the Cloud9 IDE.
+# Cloud9 IDE Runner
+Tested custom runners for the Cloud9 IDE.
 
 ## Getting started
 ### Add the runner
