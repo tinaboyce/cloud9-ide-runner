@@ -1,3 +1,5 @@
+// Basic custom Perl Cloud9 IDE runner
+// Copied from https://en.wikiversity.org/wiki/Cloud9_IDE/Perl (accessed 07-MAR-2017)
 {
     "cmd" : ["perl", "$file", "$args"],
     "info" : "Running $file_name",
