@@ -1,0 +1,5 @@
+{
+    "cmd" : ["perl", "$file", "$args"],
+    "info" : "Running $file_name",
+    "selector" : "source.pl"
+}
